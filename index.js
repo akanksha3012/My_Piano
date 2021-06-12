@@ -1,0 +1,36 @@
+
+var one = new Audio ();
+one.src = "w1.wav";
+var two = new Audio ();
+two.src = "w2.mp3";
+var three = new Audio ();
+three.src = "w3.wav";
+var four = new Audio ();
+four.src = "w4.mp3";
+var five = new Audio ();
+five.src = "w5.wav";
+var six = new Audio ();
+six.src = "w6.wav";
+var seven = new Audio ();
+seven.src = "w7.wav";
+var eight = new Audio ();
+eight.src = "w8.mp3";
+var nine = new Audio ();
+nine.src = "w9.wav";
+var ten = new Audio ();
+ten.src = "w10.mp3";
+
+var BlackOne = new Audio();
+BlackOne.src = "B1.wav";
+var BlackTwo = new Audio();
+BlackTwo.src = "B2.mp3";
+var BlackThree = new Audio();
+BlackThree.src = "B3.wav";
+var BlackFour = new Audio();
+BlackFour.src = "B4.mp3";
+var BlackFive = new Audio();
+BlackFive.src = "B5.wav";
+var BlackSix = new Audio();
+BlackSix.src = "B6.mp3";
+var BlackSeven = new Audio();
+BlackSeven.src = "B7.mp3";
